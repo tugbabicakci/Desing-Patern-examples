@@ -1,0 +1,7 @@
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\SinletonDesingPattern\bin\Debug\SinletonDesingPattern.exe.config
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\SinletonDesingPattern\bin\Debug\SinletonDesingPattern.exe
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\SinletonDesingPattern\bin\Debug\SinletonDesingPattern.pdb
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\SinletonDesingPattern\obj\Debug\SinletonDesingPattern.csprojAssemblyReference.cache
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\SinletonDesingPattern\obj\Debug\SinletonDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\SinletonDesingPattern\obj\Debug\SinletonDesingPattern.exe
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\SinletonDesingPattern\obj\Debug\SinletonDesingPattern.pdb

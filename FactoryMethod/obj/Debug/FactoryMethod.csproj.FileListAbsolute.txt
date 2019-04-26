@@ -1,0 +1,7 @@
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\FactoryMethod\obj\Debug\FactoryMethod.pdb

@@ -1,0 +1,7 @@
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\PrototypeDesingPattern\bin\Debug\PrototypeDesingPattern.exe.config
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\PrototypeDesingPattern\bin\Debug\PrototypeDesingPattern.exe
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\PrototypeDesingPattern\bin\Debug\PrototypeDesingPattern.pdb
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.csprojAssemblyReference.cache
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.exe
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.pdb

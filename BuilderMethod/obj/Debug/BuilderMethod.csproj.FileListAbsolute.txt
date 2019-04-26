@@ -1,0 +1,7 @@
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\BuilderMethod\obj\Debug\BuilderMethod.csprojAssemblyReference.cache
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\BuilderMethod\obj\Debug\BuilderMethod.csproj.CoreCompileInputs.cache
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\BuilderMethod\bin\Debug\BuilderMethod.exe.config
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\BuilderMethod\bin\Debug\BuilderMethod.exe
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\BuilderMethod\bin\Debug\BuilderMethod.pdb
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\BuilderMethod\obj\Debug\BuilderMethod.exe
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\BuilderMethod\obj\Debug\BuilderMethod.pdb

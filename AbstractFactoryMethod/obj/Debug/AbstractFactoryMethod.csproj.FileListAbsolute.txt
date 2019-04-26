@@ -1,0 +1,7 @@
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\AbstractFactoryMethod\bin\Debug\AbstractFactoryMethod.exe.config
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\AbstractFactoryMethod\bin\Debug\AbstractFactoryMethod.exe
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\AbstractFactoryMethod\bin\Debug\AbstractFactoryMethod.pdb
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\AbstractFactoryMethod\obj\Debug\AbstractFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\AbstractFactoryMethod\obj\Debug\AbstractFactoryMethod.exe
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\AbstractFactoryMethod\obj\Debug\AbstractFactoryMethod.pdb
+C:\Users\tugba.bicakci\source\repos\DesingPatternConsoleApp\AbstractFactoryMethod\obj\Debug\AbstractFactoryMethod.csprojAssemblyReference.cache
